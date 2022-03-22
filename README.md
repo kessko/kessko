@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kessko
 - 👀 I’m interested in Architecture/DevOps/SRE
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning GitOps tools
+- 💞️ I’m looking to collaborate on Open Source Project
+- 📫 How to reach me https://t.me/mrkroukin
 
 <!---
 kessko/kessko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
